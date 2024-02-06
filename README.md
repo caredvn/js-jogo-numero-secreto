@@ -49,7 +49,7 @@ Criar uma página que interagisse com o JavaScript através não só através de
 
 ## Meu processo
 ### O que eu aprendi
-Ao realizar o projeto, pude pôr em prática o que já havia aprendido em javascript. Além do que foi passado sobre funções, também tive a abertura de aprender mais e poder otimizar o meu código com outras funções e operadores ternários. Senti que foi um ótimo projeto para trabalhar a linguagem e aplicar melhorias ao código base.
+Ao realizar o projeto, pude pôr em prática o que já havia aprendido em javascript. Além do que foi passado nas aulas do curso do projeto sobre funções, também tive a abertura de aprender mais e poder otimizar o meu código com outras funções e operadores ternários. Senti que foi um ótimo projeto para trabalhar a linguagem e aplicar melhorias ao código base.
 
 ## Autora
 - Linkedin - [Caren de Paula Lourenço Divino](https://www.linkedin.com/in/carendvn/)
